@@ -292,6 +292,15 @@ This project demonstrates how data analysis and machine learning can be applied 
 The analysis highlights the importance of order volume and operational factors in revenue generation and shows how predictive modeling can support data-driven decision making in the restaurant industry.
 
 
+👩‍💻 Author
+
+Aishwarya Savanth
+Aspiring Data Scientist | Machine Learning Enthusiast
+Passionate about data analysis, machine learning, and AI-driven insights.
+
+⭐ If you found this project helpful, consider starring the repository!
+
+
 
 
 
