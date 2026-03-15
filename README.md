@@ -235,14 +235,46 @@ Key insights derived from the analysis include:
 - Certain restaurant categories consistently outperform others
 - A few restaurants generate exceptionally high revenue, acting as outliers
 
-#### 📊 Business Recommendations :
+#### 5. 📊 Business Recommendations :
 
-**Based on the analysis :**
+Based on the analysis :
 
-1. Restaurants should focus on increasing order volume through promotions and delivery partnerships
-2. Expanding menu offerings strategically can help attract a broader customer base.
-3. Businesses should invest in high-performing restaurant categories.
-4. Predictive models can be used to forecast revenue and support strategic decision-making
+**1. Focus on Increasing Order Volume :** 
+
+The analysis revealed a strong positive relationship between the number of orders placed and revenue generated. Restaurants receiving a higher number of orders tend to generate significantly more revenue.
+
+Restaurant businesses should focus on strategies that increase order volume, such as:
+
+- Online food delivery partnerships
+- Promotional campaigns and discounts
+- Loyalty programs and customer retention strategies
+- Improving service efficiency to handle higher order volumes
+
+Increasing order volume is likely to have the most direct impact on revenue growth.
+
+**2. Expand Menu Variety Strategically :** 
+
+The analysis also showed a positive relationship between the number of menu items and restaurant revenue. Restaurants offering a broader selection of menu items tend to attract more customers.
+
+Restaurants should consider expanding their menu offerings while ensuring:
+
+- Menu items align with customer preferences
+- Kitchen operations remain efficient
+- Quality and consistency of food are maintained
+
+A well-balanced menu variety can attract a wider customer base and increase sales opportunities.
+
+**3. Use Predictive Models for Revenue Forecasting :** 
+
+The machine learning models developed in this project can help restaurants predict future revenue based on operational factors such as order volume and menu size.
+
+- Restaurant management can use predictive analytics to: 
+    - Forecast revenue trends
+    - Plan staffing and inventory requirements
+    - Optimize marketing campaigns
+    - Support data-driven business decisions
+
+Using predictive insights can help businesses reduce uncertainty and improve financial planning.
 
 #### 6. 🛠️ Tech Stack :
 
